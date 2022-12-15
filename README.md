@@ -1,5 +1,5 @@
 # Fuel-Sales-Analysis
-Fuel sales analysis for the year 2021
+Fuel sales analysis using Google Sheets and SQL for the year 2021
 
 1.GMV (in crore) trend for the above Rs.50K recharging customers, Rs.10K recharging customers and overall GMV. And also GMV trend of above Rs.5 lakh recharging customers
 
